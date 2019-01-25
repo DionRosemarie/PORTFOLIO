@@ -6,6 +6,9 @@
   <meta name="viewport" width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0>
   <link rel="stylesheet" href="CSS/style.css"/>
     <script src="js/script.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+      <script src="js/jquery.easypiechart.js"></script>
+
 
   <header>
   <!-- NAVIGUATION PART DO NOT TOUCH IT -->
@@ -108,6 +111,29 @@
      <img src="assets/images/strenght.png"  width="562" height="96" alt="logo"/>
      </div>
 
+     <div class="circleGraph">
+  <div class="box-piesite">
+
+    <ul>
+          <li class="design">
+          <div class="piesite" id="pie_0" data-pie="88"></div>
+          <h2>OF TEENS HAVE SEEN SOMEONE <br>BE MEAN OF CRUEL TO ANOTHER<br> PERSON ON SOCIAL MEDIA </h2>
+        </li>
+
+      <li class="usability">
+      <div class="piesite" id="pie_2" data-pie="41"></div>
+      <h2>OF TEENS HAD A NEGATIVE EXPERIENCE <br>ONLINE OR FACE-TO-FACE AS A <BR>RESULT OF USING SOCIAL MEDIA</h2>
+      </li>
+
+      <li class="creativity">
+      <div class="piesite" id="pie_1" data-pie="22"></div>
+      <h2>OF TEENS LOST THEIR FRIENDSHIP<BR> WITH SOMEONE DUE TO ACTIONS<BR> ON SOCIAL MEDIA</h2>
+
+      </li>
+    </ul>
+  </div>
+</div>
+
 </section>
 
   <!-- HTML would go here if needed. -->
@@ -119,3 +145,18 @@
 </div>
 
 </html>
+
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+  <script src="/js/jquery.easypiechart.js"></script>
+  <script>
+    $(function() {
+      $('.chart').easyPieChart({
+        barColor: '#ea4e48',
+        trackColor: '#000000',
+        lineWidth: 30,
+        lineCap: 'butt',
+        size: 250,
+      });
+    });
+  </script>
