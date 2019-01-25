@@ -34,6 +34,15 @@ h2 {
   color: white;
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 10px;
+  background-color: #2e00ff;
+}
+
 #myVideo {
   position: fixed;
   right: 0;
@@ -44,11 +53,10 @@ h2 {
 }
 
 .portfolio {
-  float: right;
-  margin-top: 330px;
-  margin-right: 0px;
-  padding: 10px;
-  animation : entry 2s;
+float: right;
+margin-right: 40px;
+margin-top: 400px;
+animation : entry 2s;
 }
 
 @keyframes entry {
@@ -67,7 +75,7 @@ margin-top: 20px;
 max-width: 110px;
 margin-left: auto;
 margin-right: auto;
-margin-top: 450px;
+padding-top:550px;
 }
 
 .design {
@@ -85,14 +93,14 @@ margin-right: 50px;
 .about {
   float: left;
   margin-top: 100px;
-  margin-left: 100px;
+  margin-left: 180px;
   animation : entry 2s;
 }
 
 .aboutText {
-  float: left;
-  margin-top: 95px;
-  margin-left: 50px;
+  float: right;
+  margin-top: 190px;
+  margin-right: 150px;
   padding: 10px;
   min-width: 100px;
   max-width: 500px;
@@ -101,9 +109,9 @@ margin-right: 50px;
 }
 
 .contactText {
-  float: left;
-  margin-top: 150px;
-  margin-left: 50px;
+  float: right;
+  margin-top: 200px;
+  margin-right: 270px;
   padding: 10px;
   min-width: 100px;
   max-width: 500px;
@@ -112,10 +120,18 @@ margin-right: 50px;
 }
 
 
-.projectText {
+.contact {
   float: left;
-  margin-top: 95px;
-  margin-left: 100px;
+  margin-top: 250px;
+  margin-left: 270px;
+  animation : entry 2s;
+}
+
+
+.projectText {
+  float: right;
+  margin-top: 190px;
+  margin-right: 150px;
   padding: 10px;
   min-width: 100px;
   max-width: 500px;
@@ -125,19 +141,11 @@ margin-right: 50px;
 
 .projects {
   float: left;
-  min-width: 100px;
-  max-width: 200px;
   margin-top: 100px;
-  margin-left: 100px;
+  margin-left: 180px;
   animation : entry 2s;
 }
 
-.contact {
-  float: left;
-  margin-top: 200px;
-  margin-left: 200px;
-  animation : entry 2s;
-}
 a
 {
   text-decoration: none;
