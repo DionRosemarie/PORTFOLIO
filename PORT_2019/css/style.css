@@ -50,13 +50,13 @@ h2 {
 
 #s3 {
   width: 100%;
-  height: 600px;
+  height: 20%;
   font-family: 'Muli', sans-serif;
 }
 
 #s4 {
   width: 100%;
-  height: 2000px;
+  height: 100%;
   font-family: 'Muli', sans-serif;
 }
 
@@ -378,11 +378,73 @@ transform: scale(1.2);
   margin-bottom: 50px;
 }
 
+.illustration {
+  float: left;
+  display: inline;
+  margin-top: 380px;
+  margin-left: 50px;
+  margin-right: auto;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.illustration:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.kurios {
+  float: left;
+    display: inline;
+    margin-top: 380px;
+    margin-left: 50px;
+    margin-right: auto;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.kurios:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.infusia {
+  float: left;
+    display: inline;
+    margin-top: 380px;
+    margin-left: 50px;
+    margin-right: auto;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.infusia:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.terre {
+  float: left;
+    display: inline;
+    margin-top: 380px;
+    margin-left: 50px;
+    margin-right: auto;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.terre:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
 .year16 {
-  float: right;
-  margin-top: 70px;
-  margin-right: 130px;
+  float: left;
+  margin-top: 600px;
+  margin-left: 70px;
+  margin-bottom: 70px;
   animation : entry 2s;
+
 }
 
 .year17 {
