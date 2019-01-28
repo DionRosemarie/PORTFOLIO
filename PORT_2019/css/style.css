@@ -198,35 +198,26 @@ margin-right: 50px;
   max-width: 832px;
   margin-left: auto;
   margin-right: auto;
-  margin-top:200px;
+  margin-top:100px;
+  z-index:1;
 }
 .project2 {
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
   margin-top:200px;
+  z-index:1;
 }
 .project3 {
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
   margin-top:200px;
-  margin-bottom: 50px;
+  padding-bottom: 100px;
+  z-index:1;
 }
 
-.instant {
-  float: left;
-  display: block;
-  margin-top: 160px;
-  margin-left: 50px;
-  max-height: 200px;
 
-}
-
-.instant:hover {
-  color: #f9ff00;
-transform: scale(1.2);
-}
 
 .calin {
   float: left;
@@ -268,7 +259,7 @@ transform: scale(1.2);
   margin-left: auto;
   margin-right: auto;
   margin-top:200px;
-  margin-bottom: 50px;
+  padding-bottom: 100px;
 }
 
 .budweiser {
@@ -381,7 +372,7 @@ transform: scale(1.2);
 .illustration {
   float: left;
   display: inline;
-  margin-top: 100px;
+  margin-top: 90px;
   margin-left: 0px;
   max-height: 200px;
   max-width: 200px;
@@ -395,7 +386,7 @@ transform: scale(1.2);
 .kurios {
   float: left;
   display: inline;
-  margin-top: 100px;
+  margin-top: 90px;
   margin-left: 50px;
   max-height: 200px;
   max-width: 200px;
@@ -409,7 +400,7 @@ transform: scale(1.2);
 .infusia {
   float: left;
   display: inline;
-  margin-top: 100px;
+  margin-top: 90px;
   margin-left: 50px;
   max-height: 200px;
   max-width: 200px;
@@ -423,13 +414,69 @@ transform: scale(1.2);
 .terre {
   float: left;
   display: inline;
-  margin-top: 100px;
-  margin-left: 50px;
+  margin-top: 90px;
+  margin-left: 270px;
   max-height: 200px;
   max-width: 200px;
 }
 
 .terre:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.calin {
+  float: left;
+  display: inline;
+  margin-top: 90px;
+  margin-left: 50px;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.calin:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.instant {
+  float: left;
+  display: inline;
+  margin-top: 250px;
+  margin-left: 270px;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.instant:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.food {
+  float: left;
+  display: inline;
+  margin-top: 250px;
+  margin-left: 50px;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.food:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.elixir {
+  float: left;
+  display: inline;
+  margin-top: 50px;
+  margin-left: 50px;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.elixir:hover {
   color: #f9ff00;
 transform: scale(1.2);
 }
@@ -446,9 +493,9 @@ transform: scale(1.2);
 }
 
 .year17 {
-  float: left;
-  margin-top: 70px;
-  margin-left: 130px;
+  float: right;
+  margin-top: 450px;
+  margin-right: 130px;
   animation : entry 2s;
 }
 
