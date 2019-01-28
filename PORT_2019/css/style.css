@@ -156,12 +156,13 @@ margin-right: 50px;
 
 .contactText {
   float: right;
-  margin-top: 450px;
+  margin-top: 250px;
   margin-right: 270px;
   padding: 10px;
   min-width: 100px;
   max-width: 500px;
   height: 300px;
+  font-size: 50px;
   animation : entry 2s;
 }
 
@@ -215,9 +216,11 @@ margin-right: 50px;
 
 .instant {
   float: left;
+  display: block;
   margin-top: 160px;
-  margin-left: 20px;
-  max-height: 300px;
+  margin-left: 50px;
+  max-height: 200px;
+
 }
 
 .instant:hover {
@@ -227,9 +230,11 @@ transform: scale(1.2);
 
 .calin {
   float: left;
+  display: block;
   margin-top: 160px;
-  margin-left: 40px;
-  max-height: 300px;
+  margin-left: 50px;
+    max-height: 200px;
+
 }
 
 .calin:hover {
@@ -266,18 +271,122 @@ transform: scale(1.2);
   margin-bottom: 50px;
 }
 
-.year16 {
+.budweiser {
   float: left;
+  display: block;
+  margin-top: 160px;
+  margin-left: 50px;
+    max-height: 200px;
+}
+
+.budweiser:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.budweiser1  {
+  max-width:700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+
+.budweiser2  {
+  max-width:700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+.budweiser3  {
+  max-width:700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+
+.budweiser4  {
+  max-width:700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+.budweiser5  {
+  max-width:700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+
+.crossfit {
+  float: left;
+  display: block;
+  margin-top: 360px;
+  margin-left: 50px;
+}
+
+.crossfit:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.crossfit1  {
+  max-width:585px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+.crossfit2  {
+  max-width:596px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+.crossfit3  {
+  max-width:596px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+.crossfit4  {
+  max-width:596px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+.crossfit5  {
+  max-width:596px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+.crossfit6  {
+  max-width:596px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+.year18 {
+  float: right;
   margin-top: 70px;
-  margin-left: 130px;
+  margin-right: 130px;
   animation : entry 2s;
 }
 
 .circle {
   position: absolute;
-  top: -200px;
-  left: 70px;
-
+  top: 400px;
+  left: 170px;
 }
 
 
