@@ -60,6 +60,18 @@ h2 {
   font-family: 'Muli', sans-serif;
 }
 
+#s5 {
+  width: 100%;
+  height: 100%;
+  font-family: 'Muli', sans-serif;
+}
+
+#s6 {
+  width: 100%;
+  height: 100%;
+  font-family: 'Muli', sans-serif;
+}
+
 .footer {
   position: fixed;
   left: 0;
@@ -218,7 +230,6 @@ margin-right: 50px;
 }
 
 
-
 .calin {
   float: left;
   display: block;
@@ -262,18 +273,6 @@ transform: scale(1.2);
   padding-bottom: 100px;
 }
 
-.budweiser {
-  float: left;
-  display: block;
-  margin-top: 160px;
-  margin-left: 50px;
-  max-height: 200px;
-}
-
-.budweiser:hover {
-  color: #f9ff00;
-transform: scale(1.2);
-}
 
 .budweiser1  {
   max-width:700px;
@@ -439,11 +438,25 @@ transform: scale(1.2);
 transform: scale(1.2);
 }
 
+.hosana {
+  float: left;
+  display: inline;
+  margin-top: 90px;
+  margin-left: 50px;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.hosana:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
 .instant {
   float: left;
   display: inline;
-  margin-top: 250px;
-  margin-left: 270px;
+  margin-top: 200px;
+  margin-left: 0px;
   max-height: 200px;
   max-width: 200px;
 }
@@ -456,7 +469,7 @@ transform: scale(1.2);
 .food {
   float: left;
   display: inline;
-  margin-top: 250px;
+  margin-top: 200px;
   margin-left: 50px;
   max-height: 200px;
   max-width: 200px;
@@ -470,13 +483,69 @@ transform: scale(1.2);
 .elixir {
   float: left;
   display: inline;
-  margin-top: 50px;
+  margin-top: 200px;
   margin-left: 50px;
   max-height: 200px;
   max-width: 200px;
 }
 
 .elixir:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.budweiser {
+  float: left;
+  display: inline;
+  margin-top: 90px;
+  margin-left: 270px;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.budweiser:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.wake {
+  float: left;
+  display: inline;
+  margin-top: 90px;
+  margin-left: 50px;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.wake:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.avc {
+  float: left;
+  display: inline;
+  margin-top: 90px;
+  margin-left: 50px;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.avc:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.crossfit {
+  float: left;
+  display: inline;
+  margin-top: 90px;
+  margin-left: 270px;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.crossfit:hover {
   color: #f9ff00;
 transform: scale(1.2);
 }
@@ -493,9 +562,12 @@ transform: scale(1.2);
 }
 
 .year17 {
-  float: right;
-  margin-top: 450px;
-  margin-right: 130px;
+  float: left;
+  margin-top: 100px;
+  margin-left: 70px;
+  margin-bottom: 70px;
+  max-height:37px;
+  max-height:199px;
   animation : entry 2s;
 }
 
