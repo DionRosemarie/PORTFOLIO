@@ -609,9 +609,9 @@ transform: scale(1.2);
 
 .eddy {
   float: left;
-  display: inline;
-  margin-top: 100px;
-  margin-left: 50px;
+  display: block;
+  margin-top: 90px;
+  margin-left: 270px;
   max-height: 200px;
   max-width: 200px;
 }
@@ -619,6 +619,59 @@ transform: scale(1.2);
 .eddy:hover {
   color: #f9ff00;
 transform: scale(1.2);
+}
+
+.eddy1 {
+  max-width:613px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+.eddy2 {
+  max-width:613px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+.eddy3 {
+  max-width:613px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 100px;
+}
+
+.space1 {
+  max-width:500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+.space2 {
+  max-width:613px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+
+.spaceText {
+  max-width:225px;
+  max-height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
+  margin-bottom: 200px;
+}
+.space3 {
+  max-width:613px;
+  max-height: 435px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:200px;
 }
 
 .year16 {
