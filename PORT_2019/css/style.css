@@ -36,6 +36,14 @@ h2 {
   color: white;
 }
 
+.back {
+  max-width: 170px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  padding-bottom: 100px;
+}
+
 #s1 {
   width: 100%;
   height: 300px;
@@ -768,6 +776,71 @@ h2 {
   margin-bottom: 50px;
 }
 
+.avc1 {
+  max-width: 520px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.avc2 {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.avc3 {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+  padding-bottom: 100px;
+}
+
+.elixir1 {
+  max-width: 520px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.elixir2 {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.elixir3 {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.elixir4 {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.elixir5 {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+  padding-bottom: 100px;
+}
 
 .pulsText {
   max-width: 350px;
