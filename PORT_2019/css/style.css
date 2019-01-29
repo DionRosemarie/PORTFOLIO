@@ -37,11 +37,20 @@ h2 {
 }
 
 .back {
-  max-width: 170px;
+  max-width: 200px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 50px;
   padding-bottom: 100px;
+  text-align: center;
+}
+
+.back h2 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: solid 2px yellow;
 }
 
 #s1 {
@@ -849,6 +858,15 @@ h2 {
   margin-right: auto;
   margin-top: 100px;
   padding-bottom: 100px;
+  text-align: center;
+}
+
+.pulsText h2 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: solid 2px yellow;
 }
 
 .space1 {
@@ -868,12 +886,21 @@ h2 {
 }
 
 .spaceText {
-  max-width: 225px;
+  max-width: 250px;
   max-height: 100px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
   padding-bottom: 100px;
+  text-align: center;
+}
+
+.spaceText h2 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: solid 2px yellow;
 }
 
 .space3 {
