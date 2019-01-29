@@ -550,6 +550,77 @@ transform: scale(1.2);
 transform: scale(1.2);
 }
 
+.info {
+  float: left;
+  display: inline;
+  margin-top: 90px;
+  margin-left: 50px;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.info:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+
+.puls {
+  float: left;
+  display: inline;
+  margin-top: 100px;
+  margin-left: 0px;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.puls:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.mm {
+  float: left;
+  display: inline;
+  margin-top: 100px;
+  margin-left: 50px;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.mm:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.space {
+  float: left;
+  display: inline;
+  margin-top: 100px;
+  margin-left: 50px;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.space:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
+.eddy {
+  float: left;
+  display: inline;
+  margin-top: 100px;
+  margin-left: 50px;
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.eddy:hover {
+  color: #f9ff00;
+transform: scale(1.2);
+}
+
 .year16 {
   float: left;
   top: 700px;
@@ -572,9 +643,11 @@ transform: scale(1.2);
 }
 
 .year18 {
-  float: right;
-  margin-top: 70px;
-  margin-right: 130px;
+  float: left;
+  margin-left: 70px;
+  margin-bottom: 70px;
+  max-height:37px;
+  max-height:199px;
   animation : entry 2s;
 }
 
