@@ -1043,6 +1043,38 @@ h2 {
   margin-top: 200px;
 }
 
+.info1 {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.info2 {
+  max-width: 596px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.info3 {
+  max-width: 596px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.info4 {
+  max-width: 596px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 100px;
+}
+
 .year16 {
   float: left;
   top: 700px;
