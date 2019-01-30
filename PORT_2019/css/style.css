@@ -869,6 +869,37 @@ h2 {
   border: solid 2px yellow;
 }
 
+.ill1 {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.ill2 {
+  max-width: 605px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.ill3 {
+  max-width: 605px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 100px;
+}
+
+.kurios1 {
+  max-width: 487px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 100px;
+}
 .space1 {
   max-width: 500px;
   margin-left: auto;
