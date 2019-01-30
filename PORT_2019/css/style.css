@@ -942,6 +942,39 @@ h2 {
   margin-bottom: 100px;
 }
 
+.hosana1 {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.hosana2 {
+  max-width: 933px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 100px;
+}
+
+.food1 {
+  max-width: 569px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 100px;
+}
+
+.food2 {
+  max-width: 854px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 100px;
+}
+
+
 
 .space1 {
   max-width: 500px;
