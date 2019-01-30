@@ -722,7 +722,7 @@ h2 {
 }
 
 .puls1 {
-  max-width: 534px;
+  max-width: 634px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 200px;
@@ -730,7 +730,7 @@ h2 {
 }
 
 .puls2 {
-  max-width: 534px;
+  max-width: 634px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 200px;
@@ -738,7 +738,7 @@ h2 {
 }
 
 .puls3 {
-  max-width: 534px;
+  max-width: 634px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 200px;
@@ -746,7 +746,7 @@ h2 {
 }
 
 .puls4 {
-  max-width: 534px;
+  max-width: 634px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 200px;
@@ -754,7 +754,7 @@ h2 {
 }
 
 .puls5 {
-  max-width: 534px;
+  max-width: 634px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 200px;
@@ -762,7 +762,7 @@ h2 {
 }
 
 .puls6 {
-  max-width: 534px;
+  max-width: 634px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 200px;
@@ -770,19 +770,44 @@ h2 {
 }
 
 .puls7 {
-  max-width: 534px;
+  max-width: 634px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 200px;
   margin-bottom: 50px;
 }
 
+
 .puls8 {
-  max-width: 534px;
+  max-width: 634px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 200px;
   margin-bottom: 50px;
+}
+
+.wake1 {
+  max-width: 686px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.wake2 {
+  max-width: 686px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.wake3 {
+  max-width: 686px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 100px;
 }
 
 .avc1 {
