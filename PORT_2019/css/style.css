@@ -30,8 +30,20 @@ body {
 
 }
 
-@media all and (min-width:600px) {
+/* === TABLET VIEW INHERITS FROM MOBILE */
+@media all and (min-width: 600px) {
+	.aside1 { flex:1 auto; }
+	.aside2 { flex:1 auto; }
+}
 
+/* === DESKTOP VIEW INHERITS FROM MOBILE AND TABLET */
+@media all and (min-width: 800px) {
+	.main {flex: 3 50%; }
+	.aside1 {flex: 1 25%; }
+	.aside2 {flex: 1 25%; }
+	.aside1 {order:1 }
+	.main {order:2 }
+	.aside2 {order:3 }
 }
 
 h2 {
