@@ -16,6 +16,7 @@ html {
   height: 100%;
   left: 0;
   right: 0;
+
 }
 
 body {
@@ -26,6 +27,11 @@ body {
   background: #2e00ff;
   color: #cdcdcd;
   font-family: 'Muli', sans-serif;
+
+}
+
+@media all and (min-width:600px) {
+
 }
 
 h2 {
@@ -209,9 +215,11 @@ h2 {
 
 /* PROJECT PART*/
 .projectText {
-  float: right;
-  margin-top: 20px;
-  margin-right: 150px;
+  float: left;
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 500px;
+  margin-right: 100px;
   padding: 10px;
   min-width: 100px;
   max-width: 500px;
