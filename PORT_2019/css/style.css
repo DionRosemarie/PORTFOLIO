@@ -228,13 +228,12 @@ h2 {
 /* PROJECT PART*/
 .projectText {
   float: right;
-  position: absolute;
-  margin-top: 200px;
-  margin-right: 100px;
-  padding: 10px;
+  position:relative;
+  display: flex;
+  top:50px;
+  margin-right: 70px;
   min-width: 100px;
   max-width: 500px;
-  height: 300px;
   animation: entry 2s;
 }
 
