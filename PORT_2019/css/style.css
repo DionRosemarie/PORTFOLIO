@@ -227,10 +227,9 @@ h2 {
 
 /* PROJECT PART*/
 .projectText {
-  float: left;
+  float: right;
   position: absolute;
   margin-top: 200px;
-  margin-left: 500px;
   margin-right: 100px;
   padding: 10px;
   min-width: 100px;
