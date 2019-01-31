@@ -99,6 +99,8 @@ h2 {
 #s5 {
   width: 100%;
   height: 90%;
+  margin-right: auto;
+  margin-left: auto;
   font-family: 'Muli', sans-serif;
 }
 
@@ -232,9 +234,14 @@ h2 {
   float: left;
   width: 100%;
   margin-top: 70px;
-  margin-left: 500px;
-  max-width: 544px;
+  margin-left: 400px;
+  max-width: 500px;
   animation: entry 2s;
+}
+
+.title {
+  font-size: 10px;
+  text-align: center;
 }
 
 .projects {
@@ -463,7 +470,7 @@ display: flex;
   float: left;
   display: flex;
   margin-top: 90px;
-  margin-left: 270px;
+  margin-left:50px;
   max-height: 200px;
   max-width: 200px;
 }
