@@ -229,18 +229,19 @@ h2 {
 
 /* PROJECT PART*/
 .projectText {
-  float: right;
-  display: flex;
-  min-width: 100px;
-  max-width: 500px;
+  float: left;
+  width: 100%;
+  margin-top: 70px;
+  margin-left: 500px;
+  max-width: 544px;
   animation: entry 2s;
 }
 
 .projects {
   float: left;
-  margin-top: 100px;
-  margin-left: 100px;
-  max-width: 1200px;
+  width: 100%;
+  margin-top: 70px;
+  margin-left: 70px;
   max-width: 544px;
   animation: entry 2s;
 }
